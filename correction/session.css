@@ -1,0 +1,12 @@
+card.{
+    width:300px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.card img{
+    width:100%;
+    /*take all the remaining width of the parent*/
+    border-radius
+}
