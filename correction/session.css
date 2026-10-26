@@ -1,4 +1,4 @@
-card.{
+.card{
     width:300px;
     background-color: #f2f2f2;
     border-radius: 8px;
@@ -8,5 +8,11 @@ card.{
 .card img{
     width:100%;
     /*take all the remaining width of the parent*/
-    border-radius
+    border-radius:8px;
+}
+
+.card botton{
+    border:none;
+    padding:8px 16px;
+    background-color: #edbccb;
 }
